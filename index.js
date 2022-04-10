@@ -1,3 +1,7 @@
 function sum(){
     
 }
+
+function minus(){
+    
+}
