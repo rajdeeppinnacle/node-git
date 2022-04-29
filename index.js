@@ -1,15 +1,1 @@
-function sum(){
-    
-}
-
-function minus(){
-    
-}
-
-function miracle(){
-    
-}
-
-function runAuto(){
-    
-}
+let dev = 1
